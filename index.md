@@ -1,1 +1,1 @@
-- `/pemikiran` # Path: pemikiran/index.md
+- [/pikiran](/pikiran)
